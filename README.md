@@ -1,0 +1,1 @@
+This repository contains java code for the efficient routing of messages using MQTT(Message Queuing Telemetry Transport) in the DTN (Delay Tolerant Network)_-IoT (Internet of Things) integrated Network
